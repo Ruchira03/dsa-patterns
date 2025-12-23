@@ -1,0 +1,21 @@
+{
+  "name": "dsa-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node index",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruchira03/dsa-patterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruchira03/dsa-patterns/issues"
+  },
+  "homepage": "https://github.com/Ruchira03/dsa-patterns#readme"
+}
