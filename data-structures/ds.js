@@ -62,6 +62,14 @@ function stringSyntax() {
   // Substring — O(n)
   str.substring(1, 4);
 
+  // tolower case
+  let myString = "HeLLo WoRLD!";
+  let lowerCaseString = myString.toLowerCase();
+
+  console.log(lowerCaseString); 
+  // Output: "hello world!"
+
+
   // Split / Join — O(n)
   let chars = str.split("");
   chars.join("");
